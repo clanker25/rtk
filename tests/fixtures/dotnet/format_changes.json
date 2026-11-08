@@ -1,0 +1,31 @@
+[
+  {
+    "FileName": "Program.cs",
+    "FilePath": "src/Program.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 41,
+        "CharNumber": 17,
+        "DiagnosticId": "WHITESPACE",
+        "FormatDescription": "Fix whitespace"
+      }
+    ]
+  },
+  {
+    "FileName": "Utils.cs",
+    "FilePath": "src/Utils.cs",
+    "FileChanges": [
+      {
+        "LineNumber": 14,
+        "CharNumber": 9,
+        "DiagnosticId": "IDE0055",
+        "FormatDescription": "Fix formatting"
+      }
+    ]
+  },
+  {
+    "FileName": "Tests.cs",
+    "FilePath": "tests/Tests.cs",
+    "FileChanges": []
+  }
+]
